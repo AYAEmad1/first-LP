@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
 
 body {
-    margin: 50px;
+    margin: 0;
     font-family: 'Arvo', serif;
     box-sizing: border-box;
 }
 
-.page{
-    border-radius: 10px;
-}
+
 :root {
     --mainColor: #E9ECEF;
     --secColor:  #FFF;
@@ -31,6 +29,8 @@ body {
     list-style-type: none;
     color: var(--Texts)
 }
+
+
 
 ul li a {
     text-decoration: none;
